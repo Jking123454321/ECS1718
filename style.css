@@ -1,0 +1,33 @@
+     table, th, td {
+    border: 1px dashed black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+        #t01 {
+    width: 100%;    
+    background-color: #465;
+}
+        
+        body{
+            background-color:#005492;
+            color:white; 
+        }
+        
+        h3{
+            color:red;
+        }
+        .thin-red-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+  }
+  .image-one {
+    width: 70px;
+    height:100px;
+  }
+   .image-two {
+    height:100px;
+   }
